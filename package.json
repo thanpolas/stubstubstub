@@ -1,0 +1,21 @@
+{
+    "name": "stubstubstub",
+    "version": "0.0.1",
+    "description": "A stub project to test npm flows",
+    "licenses": [
+            {
+                    "type": "MIT",
+                    "url": "http://www.opensource.org/licenses/mit-license.php"
+            }
+    ],
+    "repository": {
+            "type": "git",
+            "url": "https://github.com/thanpolas/stubstubstub"
+    },
+    "bugs": "https://github.com/thanpolas/stubstubstub/issues",
+    "devDependencies": {
+    },
+    "main": "app",
+    "scripts": {
+    }
+}
